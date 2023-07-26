@@ -220,7 +220,7 @@ print(tab1, nonnormal =  myVars)
 f2<- print(tab1, nonnormal =myVars, exact = "stage", quote = FALSE, noSpaces = TRUE, printToggle = FALSE)
 write.table(f2,"BA DM Table 1.csv",sep=",",col.names=NA)
 
-*This same tableone R package was also used to generate Table S3 in the supplement by using the below additional code.
+*The same tableone R package was also used to generate Table S3 in the supplement by using the below additional code.
 *BA includes all 36 bile acids measured in this study.
 myVars <- c("BA")
 catVars <- c("diabetics")
