@@ -3,7 +3,7 @@
 
 *Manuscript Title: Comprehensive clinical and genetic analyses of bile acids and their associations with diabetes and indices
 
-*Note: custom code was used to generate Tables 1 and S3 and Figures 1-4,S1 and S2
+*Note: custom code was used to generate Tables 1 and S3 and Figures 2-4, S1 and S2
 *Dependencies: tableone, rms, ggplot2, heatmap.2
 
 *Author: Deepthi P. Mallela
